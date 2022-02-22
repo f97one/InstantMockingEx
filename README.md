@@ -1,0 +1,2 @@
+# InstantMockingEx
+Instant.now()をモッキングするデモ
